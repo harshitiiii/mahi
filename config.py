@@ -118,17 +118,17 @@ START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/374876eff087fd
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://te.legra.ph/file/eee5e3d03dbfcf6514595.jpg",
+    "https://te.legra.ph/file/374876eff087fd1567f1f.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://te.legra.ph/file/c5ae7505b832353b2dbfc.jpg",
+    "https://te.legra.ph/file/374876eff087fd1567f1f.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://te.legra.ph/file/df481726bdfafdbc7d85c.jpg",
+    "https://te.legra.ph/file/374876eff087fd1567f1f.jpg",
 )
 
 STATS_IMG_URL = getenv(
@@ -138,32 +138,32 @@ STATS_IMG_URL = getenv(
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "https://te.legra.ph/file/a44ac871100a1aabb360f.jpg",
+    "https://te.legra.ph/file/374876eff087fd1567f1f.jpg",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
     "TELEGRAM_VIDEO_URL",
-    "https://te.legra.ph/file/a44ac871100a1aabb360f.jpg",
+    "https://te.legra.ph/file/374876eff087fd1567f1f.jpg",
 )
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "https://te.legra.ph/file/a44ac871100a1aabb360f.jpg",
+    "https://te.legra.ph/file/374876eff087fd1567f1f.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
     "SOUNCLOUD_IMG_URL",
-    "https://te.legra.ph/file/a44ac871100a1aabb360f.jpg",
+    "https://te.legra.ph/file/374876eff087fd1567f1f.jpg",
 )
 
 YOUTUBE_IMG_URL = getenv(
     "YOUTUBE_IMG_URL",
-    "https://te.legra.ph/file/389f11da55c1c1a60a215.jpg",
+    "https://te.legra.ph/file/374876eff087fd1567f1f.jpg",
 )
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
     "SPOTIFY_ARTIST_IMG_URL",
-    "https://te.legra.ph/file/a44ac871100a1aabb360f.jpg",
+    "https://te.legra.ph/file/374876eff087fd1567f1f.jpg",
 )
 
 SPOTIFY_ALBUM_IMG_URL = getenv(
@@ -173,7 +173,7 @@ SPOTIFY_ALBUM_IMG_URL = getenv(
 
 SPOTIFY_PLAYLIST_IMG_URL = getenv(
     "SPOTIFY_PLAYLIST_IMG_URL",
-    "https://te.legra.ph/file/a44ac871100a1aabb360f.jpg",
+    "https://te.legra.ph/file/374876eff087fd1567f1f.jpg",
 )
 
 
